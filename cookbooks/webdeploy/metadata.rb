@@ -1,0 +1,7 @@
+name 'webdeploy'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures webdeploy'
+long_description 'Installs/Configures webdeploy'
+version '0.2.0'

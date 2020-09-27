@@ -1,0 +1,7 @@
+name 'chef-resource-rd'
+maintainer 'Arockia'
+maintainer_email 'arockia.arulnathan@cognizant.com'
+license 'all_rights'
+description 'This cookbook contains the resources and scripts for R&D'
+long_description 'Resources and Scripts used for R&D purpose.'
+version '0.2.0'

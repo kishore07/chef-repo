@@ -1,0 +1,7 @@
+name 'apache-integration'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures apache-integration'
+long_description 'Installs/Configures apache-integration'
+version '0.2.0'

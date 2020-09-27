@@ -1,0 +1,7 @@
+name 'window'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures window'
+long_description 'Installs/Configures window'
+version '0.1.0'

@@ -1,0 +1,7 @@
+name 'mysample'
+maintainer 'kishore'
+maintainer_email 'senaganasshari.kishore@cognizant.com'
+license 'all_rights'
+description 'Installs/Configures mysample'
+long_description 'Installs/Configures mysample'
+version '0.1.0'
